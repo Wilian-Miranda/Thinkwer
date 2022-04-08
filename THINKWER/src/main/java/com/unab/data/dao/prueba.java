@@ -2,12 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.unab.views;
+package com.unab.data.dao;
 
 /**
  *
  * @author kembe
  */
-public class prueba05 {
+public class prueba {
     
 }
